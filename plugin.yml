@@ -1,0 +1,6 @@
+name: Spectator on Death
+description: Spectator on death
+version: 1.0
+main: spec\Main
+author: Pogogo007
+api: 2.0.0

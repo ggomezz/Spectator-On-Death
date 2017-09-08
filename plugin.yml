@@ -1,6 +1,6 @@
-name: Spectator on Death
-description: Spectator on death
-version: 1.0
+name: Spectator On Death
+description: makes players spectator on death
+version: 2.0.1-DEV1
 main: spec\Main
 author: Pogogo007
-api: 2.0.0
+api: 3.0.0-ALPHA7
